@@ -2,7 +2,7 @@
  * @Author: skybase
  * @Date: 2025-03-18 13:36:02
  * @LastEditors: skybase
- * @LastEditTime: 2025-03-18 22:30:31
+ * @LastEditTime: 2025-03-18 22:35:30
  * @Description:  ᕕ(◠ڼ◠)ᕗ​ 
  * @FilePath: \25飞卡轮腿调试日志\README.md
 -->
@@ -93,8 +93,8 @@
 
 在调试丝滑轮腿偏航运行的时候
 尝试将给lqr的车体速度观测值单独拆开为各个腿计算的值，出现不收敛的问题。原因分析如下：
-<!-- <img src="/1.png" width="70%"> -->
-![Image text](https://github.com/natureskybase/blog/blob/master/25%E9%A3%9E%E5%8D%A1%E8%BD%AE%E8%85%BF%E8%B0%83%E8%AF%95%E6%97%A5%E5%BF%97/1.png)
+![blog](1.png)
+
 蓝色线:左腿速度
 黄色线:右腿速度
 紫色线:左腿和右腿的和速度
